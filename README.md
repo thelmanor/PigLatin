@@ -1,1 +1,1 @@
-# PigLating
+# PigLatin
